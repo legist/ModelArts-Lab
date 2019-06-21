@@ -20,8 +20,8 @@
 4. 【手动停止服务】
 	- 实验完成后，请手动停止占用云资源的服务，如：停止 “开发环境” 中所创建的 Notebook 以及 “部署上线”-“在线服务” 中所部署的模型，以避免因持续占用云资源导致资源包无谓消耗和欠费发生。需使用时，再启动即可。
 5. 【获得实践积分】
-	- 完成实战记录并回帖的开发者，请提交 Pull Request (PR) 到 [积分总表](https://github.com/huaweicloud/ModelArts-Lab/blob/master/merit_rank/all_ranking.md)，反馈您的实践、积分和贡献点，具体操作流程在此。社区 committers 核实后，合并 PR，积分正式生效。
-	- 积分规则： https://github.com/huaweicloud/ModelArts-Lab/tree/master/merit_rank
+	- 完成实战记录并回帖的开发者，请提交 Pull Request (PR) 到 [积分总表](https://github.com/huaweicloud/ModelArts-Lab/blob/master/merit_rank/all_ranking.md)，反馈您的实践、积分和贡献点，[具体操作流程在此](https://github.com/huaweicloud/ModelArts-Lab/wiki/Pull-Requests-%E6%9B%B4%E6%96%B0%E7%A7%AF%E5%88%86)。社区 Committers 核实后，合并 PR，积分正式生效。
+	- 积分规则： [https://github.com/huaweicloud/ModelArts-Lab/tree/master/merit_rank](https://github.com/huaweicloud/ModelArts-Lab/tree/master/merit_rank)
 	- 实践登记：将您 Issue 跟帖<b>链接</b>登记到 ModelArts 社区的 [积分总表](https://github.com/huaweicloud/ModelArts-Lab/blob/master/merit_rank/all_ranking.md) 里，按如下图操作获得 Issue 链接：
 	- // image 截图待补
 
