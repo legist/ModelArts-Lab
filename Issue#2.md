@@ -1,4 +1,4 @@
-## 【华为云 ModelArts-Lab AI实战营】第二期
+# 【华为云 ModelArts-Lab AI实战营】第二期
 
 - 相信访问本页面的您，已经是上一期的《华为云 ModelArts-Lab AI实战营第一期：图像分类》的学员，并且完成 “自动学习案例” 和 “Notebook案例” 了，本期我们将会以 “图像分类-综合案例” 带您更深入和全面地学习 ModelArts 的图像分类能力。
 
@@ -12,7 +12,7 @@
 	- 图像分类综合案例”：https://github.com/huaweicloud/ModelArts-Lab/XXXXXXXXXXXXXXXXXXXXX // url 待补
 2. 【加入实战微信群】
 	- 欢迎您自由加入本期实战营的微信群，与 ModelArts 社区开发者一起交流
-	- 请添加 “华为云EI微信小助手” 后，拉您入群；小助手微信号：hwyeiqyzn
+	- 请添加 “华为云EI微信小助手” 后，拉您入群（微信号：hwyeiqyzn）
 3. 【留下实战记录】
 	- 请您在本则 Issue 下方跟帖反馈：华为云账号 + <b>完成实战的截图</b>。
 	- 反馈信息格式，请参考如下 xxxxxx 的样例：
@@ -22,7 +22,7 @@
 5. 【获得实践积分】
 	- 完成实战记录并回帖的开发者，请提交 Pull Request (PR) 到 [积分总表](https://github.com/huaweicloud/ModelArts-Lab/blob/master/merit_rank/all_ranking.md)，反馈您的实践、积分和贡献点，具体操作流程在此。社区 committers 核实后，合并 PR，积分正式生效。
 	- 积分规则：[https://github.com/huaweicloud/ModelArts-Lab/tree/master/merit_rank](https://github.com/huaweicloud/ModelArts-Lab/tree/master/merit_rank)
-	- 实践登记：将您 Issue 跟帖<b>链接</b>到 [积分总表](https://github.com/huaweicloud/ModelArts-Lab/blob/master/merit_rank/all_ranking.md) 里，按如下图操作获得 Issue 链接：
+	- 实践登记：将您 Issue 跟帖<b>链接</b>登记到 ModelArts 社区的 [积分总表](https://github.com/huaweicloud/ModelArts-Lab/blob/master/merit_rank/all_ranking.md) 里，按如下图操作获得 Issue 链接：
 	- // image 截图待补
 
 
